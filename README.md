@@ -2,7 +2,9 @@
 <!-- Copyright (c) 2026 Ahmad Ali Parr. All rights reserved. -->
 <!-- Authored by Ahmad Ali Parr. -->
 
-![Double Helix](docs-hero.webp)
+![Alpha-helix visualizer from protein-folding-bifurcation](alpha-helix-frontend.png)
+
+*Live 3D α-helix visualizer from [`protein-folding-bifurcation`](https://github.com/AHMADALIPARR/protein-folding-bifurcation) — λ = 0.40, FOLDED, 36% wound. This repo proves the invariant behind that visualization.*
 
 # Bifurcation Invariant Verify
 
@@ -11,7 +13,11 @@
 [![Lean 4](https://img.shields.io/badge/Lean-4.9.0-blue)](https://leanprover.github.io/)
 [![Mathlib](https://img.shields.io/badge/Mathlib-v4.9.0-green)](https://github.com/leanprover-community/mathlib4)
 [![Alloy](https://img.shields.io/badge/Alloy-6.2.0-orange)](https://alloytools.org/)
+[![Agda](https://img.shields.io/badge/Agda-Dependent_Types-purple)](https://wiki.portal.chalmers.se/agda/pmwiki.php)
+[![Liquid Haskell](https://img.shields.io/badge/Liquid_Haskell-Refinement_Types-red)](https://github.com/ucsd-progsys/liquidhaskell)
+[![Curry-Howard](https://img.shields.io/badge/Curry--Howard-Pure_Proof-gold)](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
 [![License](https://img.shields.io/badge/License-SNAPKITTY_Opaque-red)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/AHMADALIPARR/bifurcation-invariant)](https://github.com/AHMADALIPARR/bifurcation-invariant/releases)
 
 ---
 
